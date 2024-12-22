@@ -21,10 +21,10 @@ This project is a simple web-based calculator developed using **Spring Boot**, w
   git clone https://github.com/Satishchoudhary94/Calculator-SpringBoot
 
 
-2.Navigate to the project directory:
-  cd your-repository-name
+  2.Navigate to the project directory:
+    cd your-repository-name
 
 
-3.Run the project using the following command:
-  mvn spring-boot:run
+  3.Run the project using the following command:
+    mvn spring-boot:run
 
